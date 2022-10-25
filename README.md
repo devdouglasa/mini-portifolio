@@ -9,7 +9,7 @@
 ![imagem-projeto-final](mini-portifolio.png)
 
 ---
-## :woman_technologist:  Autora
+## :man_technologist:  Autor
 
 <table class="author">
   <tr>
